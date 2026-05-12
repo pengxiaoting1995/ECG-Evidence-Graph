@@ -1,0 +1,11 @@
+patient_id,label,original_graph_id,original_label,n_nodes,n_edges
+external_001,0,15,0,452,2018
+external_002,0,16,0,257,1144
+external_003,0,17,0,221,1266
+external_004,0,18,0,151,808
+external_005,0,19,0,351,1574
+external_006,1,706,1,318,1566
+external_007,1,707,1,70,302
+external_008,1,708,1,50,318
+external_009,1,709,1,341,1908
+external_010,1,710,1,87,436

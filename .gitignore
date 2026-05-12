@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+
+.idea/
+
+results/
+sample/
+
+*.pth
+*.pt
+*.pkl
+
+.DS_Store
